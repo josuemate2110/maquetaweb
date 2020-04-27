@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:white;
+    
+}
+#contenido{
+width: 900px;
+height: 700px;
+background-color: black;
+border: 1px solid white;
+margin: 0 auto;
+}
+#header{
+    width: 1000px;
+    height: 200px;
+}
+#logo{
+    width: 200px;
+    height: 200px;
+    background-color:rgb(212, 47, 47);
+    float: left;
+}
+#banner{
+    width: 800px;
+    height: 200px;
+    background-color: rgb(39, 41, 145);
+    float: right;
+}
+#menu{
+    width: 1000px;
+    height: 50px;
+    background-color: rgb(116, 168, 116);
+}
+#centro{
+    width: 1000px;
+    height: 500px;
+}
+#article{
+    width: 700px;
+    height: 500px;
+    background-color: rgb(77, 20, 85);
+    float: left;
+}
+#aside{
+    width: 300px;
+    height: 500px;
+    background-color: rgb(185, 94, 41);
+    float: right;
+}
+#footer{
+    width: 1000px;
+    height: 50px;
+    background-color: rgb(192, 167, 28);
+}
